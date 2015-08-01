@@ -8,8 +8,8 @@ relative_permalinks: true
 
 # Setup
 title:            'Bill Odom'
-tagline:          'Random Thoughts'
-description:      'This is where the description will go. With luck, it will be more exciting than this placeholder.'
+tagline:          'An Incredibly Exciting Website'
+description:      'A place where Bill says stuff (or will, eventually)'
 url:              http://billodom.com
 baseurl:          /
 
