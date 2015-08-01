@@ -1,0 +1,36 @@
+
+Note: This is a very lucid explanation of Vim's buffers, windows, and tabs
+that was posted by 'godlygeek' to <http://vim.pastey.net/115548-1ki0>.
+Unfortunately, that link is no longer valid, so I've rehosted the contents
+here.
+
+Bill Odom
+October 4th, 2012
+
+- - - - -
+
+A buffer is just the word for the contents of a file.  Each buffer may be
+associated with one file path (the file it will be written to when you :w).
+A buffer may not have an associated file path (like the empty buffer you get
+when you first start Vim).
+
+A window is a place where a buffer can be displayed.  There is always at least
+one window open.  A buffer can be displayed in any number of windows
+simultaneously.  Having a buffer that isn't displayed in a window is useful
+when switching between different tasks, letting you walk away from
+half-finished work.  Having a buffer that is displayed in two windows can be
+useful when trying to work on one part of the buffer based upon some context
+provided in another part of the buffer that's far away.
+
+A tab page is a place to put a group of windows.  There is always at least one
+tab page open.  Each tab must always have at least one window in it.  The
+maximum number of windows is bounded only by the size of the Vim window.
+
+Trying to create a one-to-one relationship between tab pages and buffers is
+asking for trouble.  Lots of Vim commands change the buffer displayed in the
+current window, and some others create a new window in the current tab page.
+Trying to lock a buffer to a single window inside a single tab page won't
+work; at least, not without cutting you off from many useful commands.
+
+- - - - -
+
