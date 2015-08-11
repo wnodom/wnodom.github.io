@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            'Bill Odom'
 tagline:          'An Incredibly Exciting Website'
-description:      'A place where Bill says stuff (or will, eventually)'
+description:      'A place where Bill occasionally says stuff'
 url:              http://billodom.com
 baseurl:          /
 
