@@ -4,6 +4,6 @@ title: About
 ---
 
 <p class="message">
-Bill posts stuff on this site, admittedly only in theory thus far, but hey, he's just getting started.
+Bill posts stuff on this site, mostly in theory thus far, but hey, he's just getting started.
 </p>
 
