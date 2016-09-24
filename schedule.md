@@ -6,7 +6,7 @@ title: Schedule
 I travel a lot these days (mostly for [Angular Boot Camp](http://angularbootcamp.com/), but sometimes just for fun, and usually for both at the same time). I'd like to meet more folks in the places I visit, so this is an attempt to make it easier for those folks to know where I'll be and when I'll be there.
 
 | From        | Until       | Where
-|:------------|-------------|:-
+|:------------|:------------|:-
 | 2016-Sep-25 | 2016-Oct-01 | London, England for [AngularConnect](http://angularconnect.com/)
 | 2016-Oct-02 | 2016-Oct-06 | Wokingham, England for [Angular Boot Camp](http://angularbootcamp.com/)
 | 2016-Oct-09 | 2016-Oct-13 | Madison, Wisconsin, United States
