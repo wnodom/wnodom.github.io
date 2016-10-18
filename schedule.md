@@ -14,8 +14,7 @@ I travel a lot these days (mostly for [Angular Boot Camp](http://angularbootcamp
 | 2016-Nov-15 | 2016-Nov-18 | Cork, Ireland
 | 2016-Nov-19 | 2016-Nov-26 | Somewhere in Ireland
 | 2016-Nov-27 | 2016-Nov-30 | Maidenhead, England
-| 2016-Dec-06 | 2016-Dec-10 | Arlington, Virginia, United States
-| 2016-Dec-11 | 2016-Dec-15 | Chantilly, Virginia, United States
+| 2016-Dec-06 | 2016-Dec-15 | Washington DC, United States
 
 [Get in touch](/contact/) if we'll be in the same place (or close enough) at the same time. I'd love to meet you!
 
