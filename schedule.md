@@ -8,8 +8,6 @@ I travel a lot these days (mostly for [Angular Boot Camp](http://angularbootcamp
 
 | From        | Until       | Where
 |:------------|:------------|:-
-| 2016-Oct-30 | 2016-Nov-05 | San Francisco, California, United States
-| 2016-Nov-05 | 2016-Nov-10 | Seattle, Washington, United States
 | 2016-Nov-15 | 2016-Nov-18 | Cork, Ireland
 | 2016-Nov-19 | 2016-Nov-26 | Somewhere in Ireland
 | 2016-Nov-27 | 2016-Nov-30 | Maidenhead, England
