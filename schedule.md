@@ -8,7 +8,6 @@ I travel a lot these days (mostly for [Angular Boot Camp](http://angularbootcamp
 
 | From        | Until       | Where
 |:------------|:------------|:-
-| 2016-Dec-06 | 2016-Dec-15 | Washington DC
 | 2017-Jan-02 | 2017-Jan-05 | Ada, Michigan
 | 2017-Jan-06 | 2017-Jan-13 | San Jose, California
 | 2017-Jan-22 | 2017-Jan-27 | South Burlington, Vermont
