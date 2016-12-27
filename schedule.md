@@ -1,14 +1,13 @@
 ---
 layout: page
 title: Schedule
-update_date: Thu Dec 22 13:55:14 2016
+update_date: Mon Dec 26 23:29:03 2016
 ---
 
 I travel a lot these days (mostly for [Angular Boot Camp](http://angularbootcamp.com/), but sometimes just for fun, and usually for both at the same time). I'd like to meet more folks in the places I visit, so this is an attempt to make it easier for those folks to know where I'll be and when I'll be there.
 
 | From        | Until       | Where
 |:------------|:------------|:-
-| 2017-Jan-02 | 2017-Jan-05 | Ada, Michigan
 | 2017-Jan-06 | 2017-Jan-13 | San Jose, California
 | 2017-Jan-16 | 2017-Jan-20 | Norfolk, Virginia (Tentative)
 | 2017-Jan-22 | 2017-Jan-27 | South Burlington, Vermont
