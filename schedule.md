@@ -8,7 +8,7 @@ I travel a lot these days (mostly for [Angular Boot Camp](http://angularbootcamp
 
 | From        | Until       | Where
 |:------------|:------------|:-
-| 2017-Feb-16 | 2017-Feb-20 | Pensacola, Florida - [Pensacon](http://pensacon.com/)
+| 2017-Feb-14 | 2017-Feb-22 | Pensacola, Florida - [Pensacon](http://pensacon.com/)
 | 2017-Feb-26 | 2017-Mar-04 | Fremont / Bay Area, California
 | 2017-Mar-14 | 2017-Mar-18 | Dallas / Ft. Worth, Texas
 | 2017-Mar-19 | 2017-Mar-23 | Redwood City / Bay Area, California (Tentative)
