@@ -8,7 +8,6 @@ I travel a lot these days (mostly for [Angular Boot Camp](http://angularbootcamp
 
 | From        | Until       | Where
 |:------------|:------------|:-
-| 2018-Apr-17 | 2018-Apr-21 | Salt Lake City, Utah for [ng-conf](https://ng-conf.com)
 | 2018-May-07 | 2018-May-12 | Budapest, Hungary for [Craft Conference](https://craft-conf.com)
 
 [Get in touch](/contact/) if we'll be in the same place (or close enough) at the same time. I'd love to meet you!
