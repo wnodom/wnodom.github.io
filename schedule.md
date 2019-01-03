@@ -8,7 +8,7 @@ I travel a lot these days (mostly for [Angular Boot Camp](http://angularbootcamp
 
 | From        | Until       | Where
 |:------------|:------------|:-
-| 2019-Jan-19 | 2018-Jan-20 | Springfield, Missouri, USA
+| 2019-Jan-19 | 2019-Jan-20 | Springfield, Missouri, USA
 | 2019-Jan-22 | 2019-Jan-26 | Madison, Wisconsin, USA
 | 2019-Jan-27 | 2019-Feb-01 | San Francisco, California, USA
 | 2019-May-07 | 2019-May-10 | Budapest, Hungary (for the [CRAFT Conference](https://craft-conf.com/))
