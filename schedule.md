@@ -8,8 +8,8 @@ I travel a lot these days (mostly for [Angular Boot Camp](http://angularbootcamp
 
 | From        | Until       | Where
 |:------------|:------------|:-
-| 2019-Jan-27 | 2019-Feb-02 | San Francisco, California, USA
-| 2019-Mar-03 | 2019-Mar-06 | Boston, Massachusetts, USA (for [Edward Tufte's one-day course](https://www.edwardtufte.com/tufte/courses)
+| 2019-Jan-27 | 2019-Feb-02 | San Francisco, CA, USA
+| 2019-Mar-03 | 2019-Mar-06 | Boston, MA, USA (for [Edward Tufte](https://www.edwardtufte.com/tufte/courses))
 | 2019-May-07 | 2019-May-10 | Budapest, Hungary (for the [CRAFT Conference](https://craft-conf.com/))
 
 [Get in touch](/contact/) if we'll be in the same place (or close enough) at the same time. I'd love to meet you!
