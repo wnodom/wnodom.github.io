@@ -12,6 +12,7 @@ I travel a lot these days (mostly for [Angular Boot Camp](http://angularbootcamp
 | 2019-Apr-29 | 2019-May-04 | Salt Lake City, UT, USA (for [ng-conf](https://www.ng-conf.org))
 | 2019-May-05 | 2019-May-11 | Budapest, Hungary (for the [CRAFT Conference](https://craft-conf.com/))
 | 2019-Jul-14 | 2019-Jul-18 | New York City, NY, USA
+| 2019-Sep-18 | 2019-Sep-20 | London, UK (for [AngularConnect](https://www.angularconnect.com/))
 
 [Get in touch](/contact/) if we'll be in the same place (or close enough) at the same time. I'd love to meet you!
 
