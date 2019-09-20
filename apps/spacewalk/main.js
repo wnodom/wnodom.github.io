@@ -437,7 +437,7 @@ module.exports = ":host {\n  display: grid;\n  height: 100vh;\n  place-items: ce
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "\n<img src=\"/assets/misc/satellite-emoji.png\">\n\n"
+module.exports = "\n<img src=\"./assets/misc/satellite-emoji.png\">\n\n"
 
 /***/ }),
 
