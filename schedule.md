@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Schedule
-update_date: 2019-12-28
+update_date: 2020-01-01
 ---
 
 I travel a lot these days (mostly for [Angular Boot Camp](http://angularbootcamp.com/), but sometimes just for fun, and usually for both at the same time). I'd like to meet more folks in the places I visit, so this is an attempt to make it easier for those folks to know where I'll be and when I'll be there.
