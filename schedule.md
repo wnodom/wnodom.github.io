@@ -1,22 +1,12 @@
 ---
 layout: page
 title: Schedule
-update_date: 2020-01-12
+update_date: 2020-03-21
 ---
 
-I travel a lot these days (mostly for [Angular Boot Camp](http://angularbootcamp.com/), but sometimes just for fun, and usually for both at the same time). I'd like to meet more folks in the places I visit, so this is an attempt to make it easier for those folks to know where I'll be and when I'll be there.
+Given... um... everything, I'm clearing the schedule until things return to normal, for whatever "normal" turns out to be.
 
-| From        | Until       | Where
-|:------------|:------------|:-
-| 2020-Jan-16 | 2020-Jan-17 | Boston, MA, USA
-| 2020-Jan-22 | 2020-Jan-24 | San Francisco, CA, USA for [Angular Boot Camp](http://angularbootcamp.com/)
-| 2020-Feb-17 | 2020-Feb-21 | Providence, RI, USA for [Angular Boot Camp](http://angularbootcamp.com/)
-| 2020-Mar-19 | 2020-Mar-21 | Chicago, IL, USA for [Josh Ritter](https://www.joshritter.com/)
-| 2020-Apr-01 | 2020-Apr-03 | Salt Lake City, UT, USA for [ng-conf](https://www.ng-conf.org)
-| 2020-Apr-06 | 2020-Apr-08 | San Francisco, CA, USA for [Google Cloud Next](https://cloud.withgoogle.com/next/sf/)
-| 2020-Jun-09 | 2020-Jun-12 | Budapest, Hungary for [CRAFT](https://craft-conf.com/)
-
-[Get in touch](/contact/) if we'll be in the same place (or close enough) at the same time. I'd love to meet you!
+[Say hello](/contact/) if you're lonely. Good luck to us all.
 
 {% if page.update_date %}
   <small>
